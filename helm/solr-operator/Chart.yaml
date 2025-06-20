@@ -77,6 +77,9 @@ annotations:
         - name: Github Issue
           url: https://github.com/apache/solr-operator/issues/759
         - name: Github PR
+          url: https://github.com/apache/solr-operator/pull/779
+    - kind: added
+      description: Abillity to set the `enableServiceLinks` field on pods. 
           url: https://github.com/apache/solr-operator/pull/769
     - kind: fixed
       description: "Fix default bootstrapped permissions for replica balancing"
