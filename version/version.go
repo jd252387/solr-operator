@@ -20,7 +20,7 @@ package version
 var (
 	// Version information for the Solr Operator
 	Version       = "v0.9.1"
-	VersionSuffix = ""
+	VersionSuffix = "eclipse-1.0.2"
 	BuildTime     string
 	GitSHA        string
 )
